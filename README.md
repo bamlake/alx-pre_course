@@ -1,3 +1,1 @@
-#alx-pre_course
-#alx-pre_course2
-#alx-pre_course
+Starting to code today,so cool
